@@ -1,7 +1,7 @@
 PATH
   remote: .
   specs:
-    blank_image (0.0.1)
+    blank_image (1.0.0)
       rails (~> 4.0)
 
 GEM
