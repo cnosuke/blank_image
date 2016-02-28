@@ -1,0 +1,2 @@
+module BlankImage
+end
