@@ -1,2 +1,5 @@
-module BlankImage
-end
+require 'blank_image/version'
+require 'blank_image/image/png'
+require 'blank_image/image/gif'
+require 'blank_image/helper'
+require 'blank_image/engine'
