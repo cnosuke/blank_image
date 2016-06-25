@@ -8,8 +8,9 @@ require 'sass-rails'
 require 'uglifier'
 require 'coffee-rails'
 require 'jquery-rails'
-require 'turbolinks'
 require 'jbuilder'
+
+require 'blank_image'
 
 module Dummy
   class Application < Rails::Application

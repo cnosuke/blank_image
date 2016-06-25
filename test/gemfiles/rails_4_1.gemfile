@@ -1,0 +1,15 @@
+source 'https://rubygems.org'
+
+gem 'minitest-rails'
+gem 'minitest-rails-capybara'
+gem 'minitest-reporters'
+
+gem 'rails', '~> 4.1.0'
+gem 'sass-rails'
+gem 'uglifier'
+gem 'coffee-rails'
+gem 'jquery-rails'
+gem 'jbuilder'
+
+gem 'pry'
+gem 'pry-byebug'
