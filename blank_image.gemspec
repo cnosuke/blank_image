@@ -17,4 +17,12 @@ Gem::Specification.new do |s|
   s.test_files = Dir["test/**/*"]
 
   s.add_dependency "railties", ['>= 4.0']
+
+  s.add_development_dependency 'rails'
+  s.add_development_dependency 'sass-rails'
+  s.add_development_dependency 'uglifier'
+  s.add_development_dependency 'coffee-rails'
+  s.add_development_dependency 'jquery-rails'
+  s.add_development_dependency 'turbolinks'
+  s.add_development_dependency 'jbuilder'
 end
