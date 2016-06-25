@@ -13,8 +13,8 @@ Gem::Specification.new do |s|
   s.summary     = "Rails plugin to send blank image file (e.g. 1x1 GIF)"
   s.license     = "MIT"
 
-  s.files = Dir["{app,config,db,lib}/**/*", "MIT-LICENSE", "Rakefile", "README.rdoc"]
+  s.files = Dir["{lib}/**/*", "MIT-LICENSE", "Rakefile", "README.rdoc"]
   s.test_files = Dir["test/**/*"]
 
-  s.add_dependency "railties", ['>= 4.0']
+  s.add_dependency 'railties', '>= 4.0'
 end
